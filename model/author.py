@@ -1,5 +1,5 @@
 from typing import Optional
-from author_dao import AuthorDAO
+from model.author_dao import AuthorDAO
 
 
 class Author:

@@ -1,6 +1,6 @@
 from typing import Optional
-from book_dao import BookDAO
-from author_model import Author
+from model.book_dao import BookDAO
+from model.author import Author
 
 
 class Book:
